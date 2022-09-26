@@ -1,4 +1,4 @@
-Banco de dados relacionais(SQL) e Banco de dados não relacional(NoSQL)
+**##Banco de dados relacionais(SQL) e Banco de dados não relacional(NoSQL)**
 
 BD relacional são bancos de dados conversa entre eles relacional que possui uma estrutura de forma rigida.
 Sendo assim possui uma estrutura que não pode ser alterada na hora das insersões de dados nela de forma ordenada 
